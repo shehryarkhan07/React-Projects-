@@ -1,10 +1,15 @@
+import Prctc from "./prctc"
 
 
 function App() {
 
   return (
-   <h1>React with vite | Shehryar khan</h1>
-  )
+    <>
+    <Prctc/>
+   <h1>Practice make a man Perfect | Shehryar khan</h1>
+    <p>Test Para</p>
+   </>
+  ) 
 }
 
 export default App
